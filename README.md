@@ -2,7 +2,7 @@
 
 [Feishin](https://github.com/jeffvli/feishin) (GPL-3.0) — a modern, fast web music player for Navidrome, Jellyfin and OpenSubsonic/Subsonic servers: queues, lyrics, smart playlists, scrobbling and themes. Deploy the web version on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/TEMPLATE_CODE)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/7pKeZv)
 
 ## What this template runs
 
